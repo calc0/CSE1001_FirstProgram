@@ -1,4 +1,4 @@
-package UseArgument;
+
 public class UseArgument {
     public static void main(String[] args)
     {

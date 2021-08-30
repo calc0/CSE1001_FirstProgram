@@ -1,4 +1,4 @@
-package Cows;
+
 import java.util.Scanner;
 
 public class Cows {
@@ -13,5 +13,6 @@ public class Cows {
         cowsPer = kb.nextInt();
 
         //more code needed to make this program work
+        totalCows = barns * cowsPer
     }
 }
