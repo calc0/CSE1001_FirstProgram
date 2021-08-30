@@ -1,3 +1,4 @@
+package FirstProgram;
 import java.util.Scanner;
 
 public class FirstProgram

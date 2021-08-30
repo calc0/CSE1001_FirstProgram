@@ -1,2 +1,2 @@
-# CSE1001_FirstProgram
-First coding assignment for Java class
+# CSE1001_Simple Programs
+Basic coding shown in class
