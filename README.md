@@ -1,2 +1,2 @@
-# CSE1001_Lab1
+# CSE1001_FirstProgram
 First coding assignment for Java class
